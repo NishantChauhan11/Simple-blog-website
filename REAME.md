@@ -20,5 +20,5 @@ This is a simple blog website built using Node.js, Express.js, MongoDB, and EJS 
 - HTML, CSS
 - ImageKit (for image hosting)
 
-## Project Structure
+
 
