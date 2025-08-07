@@ -1,24 +1,22 @@
-
 # EJS Blog Website
 
-This is a simple blog website built using Node.js, Express.js, MongoDB, and EJS for server-side rendering. Users can write and view blog posts based on categories like Technology, Lifestyle, Travel, and Food.
+A beginner-friendly blog website built using Node.js, Express.js, MongoDB, and EJS for server-side rendering. Users can write, view, and filter blog posts by categories such as Technology, Lifestyle, Travel, and Food.
 
-## Features
+##  Features
 
-- Create and publish blog posts
-- Filter posts by category
-- View full blog details
-- User login and logout system
-- Image upload using ImageKit
+- Add and publish blog posts  
+- Filter blogs by category  
+- View full blog content  
+- User authentication (Login & Logout)  
+- Image uploads via ImageKit  
 
-## Technologies Used
+##  Tech Stack
 
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- EJS (Embedded JavaScript templates)
-- HTML, CSS
-- ImageKit (for image hosting)
+- **Backend:** Node.js, Express.js  
+- **Frontend:** EJS, HTML, CSS  
+- **Database:** MongoDB with Mongoose  
+- **Image Hosting:** ImageKit  
+
 
 
 
